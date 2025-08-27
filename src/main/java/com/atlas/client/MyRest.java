@@ -1,6 +1,6 @@
-package com.example.client;
+package com.atlas.client;
 
-import com.example.server.UserResponse;
+import com.atlas.server.UserResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

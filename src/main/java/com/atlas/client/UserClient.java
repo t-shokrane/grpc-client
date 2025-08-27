@@ -1,8 +1,8 @@
-package com.example.client;
+package com.atlas.client;
 
-import com.example.server.UserRequest;
-import com.example.server.UserResponse;
-import com.example.server.UserServiceGrpc;
+import com.atlas.server.UserRequest;
+import com.atlas.server.UserResponse;
+import com.atlas.server.UserServiceGrpc;
 import net.devh.boot.grpc.client.inject.GrpcClient;
 import org.springframework.stereotype.Service;
 @Service
